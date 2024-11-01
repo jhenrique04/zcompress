@@ -10,7 +10,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/jhenrique04/zcompress.git
+    git clone git@github.com:jhenrique04/zcompress.git
     cd zcompress
     ```
 
